@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/dispur-wireless/static/js/main.d3d7347a.chunk.js",
+    "main.js.map": "/dispur-wireless/static/js/main.d3d7347a.chunk.js.map",
+    "runtime-main.js": "/dispur-wireless/static/js/runtime-main.555457f4.js",
+    "runtime-main.js.map": "/dispur-wireless/static/js/runtime-main.555457f4.js.map",
+    "static/js/2.5cd434a2.chunk.js": "/dispur-wireless/static/js/2.5cd434a2.chunk.js",
+    "static/js/2.5cd434a2.chunk.js.map": "/dispur-wireless/static/js/2.5cd434a2.chunk.js.map",
+    "index.html": "/dispur-wireless/index.html",
+    "precache-manifest.5ad6ec3b542954fa358dbc4edf62e676.js": "/dispur-wireless/precache-manifest.5ad6ec3b542954fa358dbc4edf62e676.js",
+    "service-worker.js": "/dispur-wireless/service-worker.js",
+    "static/js/2.5cd434a2.chunk.js.LICENSE.txt": "/dispur-wireless/static/js/2.5cd434a2.chunk.js.LICENSE.txt",
+    "static/media/Group10.svg": "/dispur-wireless/static/media/Group10.06ce697f.svg",
+    "static/media/svg-1.svg": "/dispur-wireless/static/media/svg-1.55cfb481.svg",
+    "static/media/svg-2.svg": "/dispur-wireless/static/media/svg-2.d4846e11.svg",
+    "static/media/svg-5.svg": "/dispur-wireless/static/media/svg-5.068b1c34.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.555457f4.js",
+    "static/js/2.5cd434a2.chunk.js",
+    "static/js/main.d3d7347a.chunk.js"
+  ]
+}

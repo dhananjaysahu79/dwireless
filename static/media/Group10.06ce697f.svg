@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="753" height="728" viewBox="0 0 753 728">
+  <defs>
+    <filter id="Rectangle_2" x="155" y="68" width="504" height="623" filterUnits="userSpaceOnUse">
+      <feOffset dx="30" dy="40" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="20" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_4" x="307" y="45" width="418" height="326" filterUnits="userSpaceOnUse">
+      <feOffset dx="-15" dy="60" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="20" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_5" x="24" y="138" width="333" height="284" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="40" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="20" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_3" x="52" y="368" width="414" height="243" filterUnits="userSpaceOnUse">
+      <feOffset dx="-10" dy="30" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25" result="blur-4"/>
+      <feFlood flood-opacity="0.259"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f8cb93"/>
+      <stop offset="1" stop-color="#66517a" stop-opacity="0.522"/>
+    </linearGradient>
+    <filter id="Rectangle_3-2" x="82" y="540" width="354" height="188" filterUnits="userSpaceOnUse">
+      <feOffset dx="-10" dy="50" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-2" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#bc98ff" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#47507e" stop-opacity="0.941"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1c4af4"/>
+      <stop offset="1" stop-color="#8a38fe"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" y1="0.207" x2="0.884" y2="0.811" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1c4af4" stop-opacity="0.502"/>
+      <stop offset="1" stop-color="#8a38fe" stop-opacity="0.322"/>
+    </linearGradient>
+    <filter id="Ellipse_3" x="372" y="393" width="270" height="270" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="35" result="blur-6"/>
+      <feFlood flood-opacity="0.341"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_10" data-name="Group 10" transform="translate(-1167 -218)">
+    <g id="Group_9" data-name="Group 9">
+      <g id="Group_8" data-name="Group 8">
+        <g id="Group_7" data-name="Group 7">
+          <g id="Group_6" data-name="Group 6">
+            <rect id="Rectangle_1" data-name="Rectangle 1" width="753" height="696" transform="translate(1167 218)" fill="#101522"/>
+            <g transform="matrix(1, 0, 0, 1, 1167, 218)" filter="url(#Rectangle_2)">
+              <g id="Rectangle_2-2" data-name="Rectangle 2" transform="translate(185 88)" fill="#f5f6f8" stroke="#707070" stroke-width="1">
+                <rect width="384" height="503" rx="25" stroke="none"/>
+                <rect x="0.5" y="0.5" width="383" height="502" rx="24.5" fill="none"/>
+              </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 1167, 218)" filter="url(#Rectangle_4)">
+              <rect id="Rectangle_4-2" data-name="Rectangle 4" width="298" height="206" rx="14" transform="translate(382 45)" fill="#fff"/>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 1167, 218)" filter="url(#Rectangle_5)">
+              <rect id="Rectangle_5-2" data-name="Rectangle 5" width="213" height="164" rx="14" transform="translate(79 158)" fill="#fff"/>
+            </g>
+            <g id="Group_3" data-name="Group 3" transform="translate(-108 -10)">
+              <g id="Group_1" data-name="Group 1" transform="translate(1412 641)">
+                <g transform="matrix(1, 0, 0, 1, -137, -413)" filter="url(#Rectangle_3)">
+                  <rect id="Rectangle_3-3" data-name="Rectangle 3" width="264" height="93" rx="10" transform="translate(137 413)" fill="#fff"/>
+                </g>
+                <rect id="Rectangle_6" data-name="Rectangle 6" width="50" height="50" transform="translate(26 22)" fill="url(#linear-gradient)"/>
+                <rect id="Rectangle_8" data-name="Rectangle 8" width="136" height="14" transform="translate(103 22)" fill="#e2e2e6"/>
+                <rect id="Rectangle_8-2" data-name="Rectangle 8" width="71" height="9" transform="translate(103 46)" fill="#e2e2e6"/>
+              </g>
+              <g id="Group_2" data-name="Group 2" transform="translate(1412 767.815)">
+                <g transform="matrix(1, 0, 0, 1, -137, -539.81)" filter="url(#Rectangle_3-2)">
+                  <rect id="Rectangle_3-4" data-name="Rectangle 3" width="264" height="93" rx="10" transform="translate(137 540)" fill="#fff"/>
+                </g>
+                <rect id="Rectangle_6-2" data-name="Rectangle 6" width="50" height="50" transform="translate(26 22.185)" fill="url(#linear-gradient-2)"/>
+                <rect id="Rectangle_8-3" data-name="Rectangle 8" width="136" height="14" transform="translate(103 22.185)" fill="#e2e2e6"/>
+                <rect id="Rectangle_8-4" data-name="Rectangle 8" width="71" height="9" transform="translate(103 46.185)" fill="#e2e2e6"/>
+              </g>
+            </g>
+            <g id="Group_4" data-name="Group 4" transform="translate(15 -3)">
+              <rect id="Rectangle_9" data-name="Rectangle 9" width="88" height="25" transform="translate(1724 284)" fill="url(#linear-gradient-3)"/>
+              <rect id="Rectangle_10" data-name="Rectangle 10" width="82" height="19" transform="translate(1727 287)" fill="#fff"/>
+              <rect id="Rectangle_11" data-name="Rectangle 11" width="55" height="5" transform="translate(1741 294)" fill="url(#linear-gradient-3)"/>
+            </g>
+            <circle id="Ellipse_1" data-name="Ellipse 1" cx="45" cy="45" r="45" transform="translate(1584 339)" fill="url(#linear-gradient-5)"/>
+            <path id="Polygon_1" data-name="Polygon 1" d="M30,0,60,60H0Z" transform="matrix(-0.53, -0.848, 0.848, -0.53, 1646.707, 407.155)" fill="#fff"/>
+            <rect id="Rectangle_12" data-name="Rectangle 12" width="121" height="14" transform="translate(1691 347)" fill="#e2e2e6"/>
+            <rect id="Rectangle_12-2" data-name="Rectangle 12" width="81" height="14" transform="translate(1691 371)" fill="#e2e2e6"/>
+            <rect id="Rectangle_12-3" data-name="Rectangle 12" width="55" height="14" transform="translate(1691 395)" fill="#e2e2e6"/>
+            <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(1304 416)" fill="none" stroke="#e4e4e8" stroke-width="12">
+              <circle cx="45" cy="45" r="45" stroke="none"/>
+              <circle cx="45" cy="45" r="39" fill="none"/>
+            </g>
+            <g id="Component_1_1" data-name="Component 1 – 1" transform="translate(1304 413)" style="mix-blend-mode: multiply;isolation: isolate">
+              <g id="Ellipse_2-2" data-name="Ellipse 2" fill="none" stroke="#bc98ff" stroke-width="15" stroke-dasharray="200 3000">
+                <circle cx="48" cy="48" r="48" stroke="none"/>
+                <circle cx="48" cy="48" r="40.5" fill="none"/>
+              </g>
+            </g>
+            <text id="Dispur-Wireless" transform="translate(1589 292)" font-size="10" font-family="GoogleSans-Bold, Google Sans" font-weight="700"><tspan x="0" y="0">Dispur-Wireless</tspan></text>
+            <g id="Group_5" data-name="Group 5" transform="translate(-133 315)">
+              <g transform="matrix(1, 0, 0, 1, 1300, -97)" filter="url(#Ellipse_3)">
+                <circle id="Ellipse_3-2" data-name="Ellipse 3" cx="30" cy="30" r="30" transform="translate(477 488)" fill="#fff"/>
+              </g>
+              <text id="_" data-name="+" transform="translate(1793 435)" fill="rgba(0,0,0,0.52)" font-size="50" font-family="GoogleSans-Medium, Google Sans" font-weight="500"><tspan x="0" y="0">+</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
