@@ -1,12 +1,20 @@
 import styled, { createGlobalStyle } from 'styled-components';
 
+
+
 const GlobalStyle = createGlobalStyle`
+   @font-face {
+    font-family: 'GoogleSans';
+    src: url('./src/GoogleSans-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
   * {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  font-family: 'Source Sans Pro', sans-serif;
- } 
+  font-family: 'Source Sans Pro', arial;
+ }
 `;
 
 export const Container = styled.div`
@@ -23,10 +31,11 @@ export const Container = styled.div`
     padding-left: 30px;
   }
 `;
-
+// button color #203BF5 #7D2CFE
 export const Button = styled.button`
   border-radius: 4px;
-  background: ${({ primary }) => (primary ? '#4B59F7' : '#0467FB')};
+  /* background: ${({ primary }) => (primary ? '#203BF5' : '#0467FB')}; */
+  background: linear-gradient(to right , #203BF5 , #7D2CFE);
   white-space: nowrap;
   padding: ${({ big }) => (big ? '12px 64px' : '10px 20px')};
   color: #fff;

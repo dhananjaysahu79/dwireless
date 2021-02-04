@@ -25,7 +25,7 @@ function Pricing() {
     <IconContext.Provider value={{ color: '#a9b3c1', size: 64 }}>
       <PricingSection>
         <PricingWrapper>
-          <PricingHeading>Our Services</PricingHeading>
+          <PricingHeading>Tariff Plans</PricingHeading>
           <PricingContainer>
             <PricingCard to='/sign-up'>
               <PricingCardInfo>
@@ -33,12 +33,12 @@ function Pricing() {
                   <GiRock />
                 </PricingCardIcon>
                 <PricingCardPlan>Starter Pack</PricingCardPlan>
-                <PricingCardCost>$99.99</PricingCardCost>
-                <PricingCardLength>per month</PricingCardLength>
+                <PricingCardCost>₹399</PricingCardCost>
+                <PricingCardLength>Pack Details</PricingCardLength>
                 <PricingCardFeatures>
-                  <PricingCardFeature>100 New Users</PricingCardFeature>
-                  <PricingCardFeature>$10,000 Budget</PricingCardFeature>
-                  <PricingCardFeature>Retargeting analytics</PricingCardFeature>
+                  <PricingCardFeature>1.5 GB /Day</PricingCardFeature>
+                  <PricingCardFeature>56 days validity</PricingCardFeature>
+                  <PricingCardFeature>Truely Unlimited Calls</PricingCardFeature>
                 </PricingCardFeatures>
                 <Button primary>Choose Plan</Button>
               </PricingCardInfo>
@@ -49,12 +49,12 @@ function Pricing() {
                   <GiCrystalBars />
                 </PricingCardIcon>
                 <PricingCardPlan>Gold Rush</PricingCardPlan>
-                <PricingCardCost>$299.99</PricingCardCost>
-                <PricingCardLength>per month</PricingCardLength>
+                <PricingCardCost>₹598</PricingCardCost>
+                <PricingCardLength>Pack Details</PricingCardLength>
                 <PricingCardFeatures>
-                  <PricingCardFeature>1000 New Users</PricingCardFeature>
-                  <PricingCardFeature>$50,000 Budget</PricingCardFeature>
-                  <PricingCardFeature>Lead Gen Analytics</PricingCardFeature>
+                  <PricingCardFeature>1.5 GB /Day</PricingCardFeature>
+                  <PricingCardFeature>84 days Validity</PricingCardFeature>
+                  <PricingCardFeature>Truely Unlimited Calls</PricingCardFeature>
                 </PricingCardFeatures>
                 <Button primary>Choose Plan</Button>
               </PricingCardInfo>
@@ -65,12 +65,12 @@ function Pricing() {
                   <GiCutDiamond />
                 </PricingCardIcon>
                 <PricingCardPlan>Diamond Kings</PricingCardPlan>
-                <PricingCardCost>$999.99</PricingCardCost>
-                <PricingCardLength>per month</PricingCardLength>
+                <PricingCardCost>₹2498</PricingCardCost>
+                <PricingCardLength>Pack details</PricingCardLength>
                 <PricingCardFeatures>
-                  <PricingCardFeature>Unlimited Users</PricingCardFeature>
-                  <PricingCardFeature>Unlimited Budget</PricingCardFeature>
-                  <PricingCardFeature>24/7 Support</PricingCardFeature>
+                  <PricingCardFeature>2 GB /Day</PricingCardFeature>
+                  <PricingCardFeature>365 days Validity</PricingCardFeature>
+                  <PricingCardFeature>Truely Unlimited Calls</PricingCardFeature>
                 </PricingCardFeatures>
                 <Button primary>Choose Plan</Button>
               </PricingCardInfo>

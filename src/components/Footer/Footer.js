@@ -5,7 +5,9 @@ import {
   FaInstagram,
   FaYoutube,
   FaTwitter,
-  FaLinkedin
+  FaLinkedin,
+  FaGit,
+  FaGithub
 } from 'react-icons/fa';
 import {
   FooterContainer,
@@ -80,30 +82,29 @@ function Footer() {
         <SocialMediaWrap>
           <SocialLogo to='/'>
             <SocialIcon />
-            ULTRA
+            Dispur-Wireless
           </SocialLogo>
-          <WebsiteRights>ULTRA © 2020</WebsiteRights>
+          <WebsiteRights>Dispur-Wireless © 2021</WebsiteRights>
           <SocialIcons>
             <SocialIconLink href='/' target='_blank' aria-label='Facebook'>
               <FaFacebook />
             </SocialIconLink>
-            <SocialIconLink href='/' target='_blank' aria-label='Instagram'>
+            <SocialIconLink href='https://www.instagram.com/dhananjaysahu79/' target='_blank' aria-label='Instagram'>
               <FaInstagram />
             </SocialIconLink>
             <SocialIconLink
               href={
-                '//www.youtube.com/channel/UCsKsymTY_4BYR-wytLjex7A?view_as=subscriber'
+                'https://github.com/dhananjaysahu79/'
               }
-              rel='noopener noreferrer'
               target='_blank'
               aria-label='Youtube'
             >
-              <FaYoutube />
+              <FaGithub />
             </SocialIconLink>
             <SocialIconLink href='/' target='_blank' aria-label='Twitter'>
               <FaTwitter />
             </SocialIconLink>
-            <SocialIconLink href='/' target='_blank' aria-label='LinkedIn'>
+            <SocialIconLink href='https://www.linkedin.com/in/dhananjay-sahu-525b1b1a1/' target='_blank' aria-label='LinkedIn'>
               <FaLinkedin />
             </SocialIconLink>
           </SocialIcons>

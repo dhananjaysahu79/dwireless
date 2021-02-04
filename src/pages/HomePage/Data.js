@@ -4,13 +4,14 @@ export const homeObjOne = {
   lightTopLine: true,
   lightText: true,
   lightTextDesc: true,
-  topLine: 'Marketing Agency',
-  headline: 'Lead Generation Specialist for Online Businesses',
+  topLine: 'NAMASTE!  Welcome To',
+  headline: 'Customer Connection Management Portal',
   description:
-    'We help business owners increase their revenue. Our team of unique specialist can help you achieve your business goals.',
+    'An offical portal of Dispur-Wireless. We provides wireless voice and data communications services to more than 9 million customers. Click the button below to get a new connection :)',
   buttonLabel: 'Get Started',
+  path: 'sign-up',
   imgStart: '',
-  img: require('../../images/svg-1.svg'),
+  img: require('../../images/Group10.svg'),
   alt: 'Credit Card',
   start: ''
 };
@@ -22,9 +23,9 @@ export const homeObjTwo = {
   lightText: true,
   lightTextDesc: true,
   topLine: 'Instant Setup',
-  headline: 'Extremely quick onboarding process',
+  headline: 'Extremely quick setup process',
   description:
-    "Once you've joined, our team of specialist will reach out to you and get you set up in minutes.",
+    "Once you've joined, our team of specialist will reach out to you and get you set up in minutes.We have arround 20000 and counting employees that can setup your cable and GigaFiber connection within an hour",
   buttonLabel: 'Learn More',
   imgStart: '',
   img: require('../../images/svg-2.svg'),
@@ -38,31 +39,16 @@ export const homeObjThree = {
   lightTopLine: false,
   lightText: false,
   lightTextDesc: false,
-  topLine: 'Sarah Jeni',
+  topLine: 'Dhananjay Sahu- CEO',
   headline:
-    'Ultra helped me increase my revenue by over 3X in less than 3 months!',
+    'Get a Connection from us and connect to all over the world',
   description:
-    "Their team is wonderful! I can't believe I didn't start working with them earlier.",
+    "Dispur Cable, Cable Business of Dispur is a leading Cable services provider,offerscable television and high speed internet connection",
   buttonLabel: 'View Case Study',
   imgStart: 'start',
-  img: require('../../images/profile.jpg'),
+  img: require('../../images/svg-5.svg'),
   alt: 'Vault',
   start: 'true'
 };
 
-export const homeObjFour = {
-  primary: true,
-  lightBg: false,
-  lightTopLine: true,
-  lightText: true,
-  lightTextDesc: true,
-  topLine: 'Secure Database',
-  headline: 'All your data is stored on our secure server',
-  description:
-    'You will never have to worry about your information getting leaked. Our team of security experts will ensure your records are kept safe.',
-  buttonLabel: 'Sign Up Now',
-  imgStart: 'start',
-  img: require('../../images/svg-3.svg'),
-  alt: 'Vault',
-  start: 'true'
-};
+
