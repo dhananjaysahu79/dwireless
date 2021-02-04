@@ -14,7 +14,7 @@ export default function validateInfo(values) {
     }
     if (!values.phone) {
       errors.phone = 'Phone no is required';
-    } else if (values.phone.length != 10) {
+    } else if (values.phone.length !== 10) {
       errors.phone = 'Phone number needs to be 10 digits';
     }
 
@@ -32,7 +32,7 @@ export default function validateInfo(values) {
 
     if(!values.password2) {
       errors.password2 = 'Password is required';
-    } else if(values.password != values.password2) {
+    } else if(values.password !== values.password2) {
         errors.password2 = 'Pasword should be matched as above'
     }
 
