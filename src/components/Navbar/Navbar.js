@@ -49,7 +49,7 @@ function Navbar() {
             </MobileIcon>
             <NavMenu onClick={handleClick} click={click}>
               <NavItem>
-                <NavLinks to='/' onClick={closeMobileMenu}>
+                <NavLinks to='/dwireless' onClick={closeMobileMenu}>
                   Home
                 </NavLinks>
               </NavItem>
