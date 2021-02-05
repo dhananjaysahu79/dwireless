@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "817d093f4edcf83d269bf66674044535",
+    "revision": "1c33b3e843a5b8092f436297dce3f81f",
     "url": "/dwireless/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dwireless/static/js/2.f620af32.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1d0e0d579599ccb46dbd",
-    "url": "/dwireless/static/js/main.16c16bbc.chunk.js"
+    "revision": "f139252401124f50d1e5",
+    "url": "/dwireless/static/js/main.231c6b1f.chunk.js"
   },
   {
     "revision": "530106f1b4f37086a7cb",

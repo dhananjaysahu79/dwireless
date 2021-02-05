@@ -9,7 +9,7 @@ export const homeObjOne = {
   description:
     'An offical portal of Dispur-Wireless. We provides wireless voice and data communications services to more than 9 million customers. Click the button below to get a new connection :)',
   buttonLabel: 'Get Started',
-  path: 'sign-up',
+  path: '/dwireless/sign-up',
   imgStart: '',
   img: require('../../images/Group10.svg'),
   alt: 'Credit Card',

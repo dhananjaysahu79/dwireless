@@ -54,18 +54,18 @@ function Navbar() {
                 </NavLinks>
               </NavItem>
               <NavItem>
-                <NavLinks to='/services' onClick={closeMobileMenu}>
+                <NavLinks to='/dwireless/services' onClick={closeMobileMenu}>
                   Services
                 </NavLinks>
               </NavItem>
               <NavItem>
-                <NavLinks to='/products' onClick={closeMobileMenu}>
+                <NavLinks to='/dwireless/about' onClick={closeMobileMenu}>
                   About
                 </NavLinks>
               </NavItem>
               <NavItemBtn>
                 {button ? (
-                  <NavBtnLink to='/sign-up'>
+                  <NavBtnLink to='/dwireless/sign-up'>
                     <Button primary>SIGN UP</Button>
                   </NavBtnLink>
                 ) : (

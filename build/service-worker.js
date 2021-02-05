@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/dwireless/precache-manifest.0779ec63cbd10502fbfcfd31bc0076c4.js"
+  "/dwireless/precache-manifest.75ad9b185983e1c27e7a009fe943c0bc.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -71,9 +71,9 @@ function Footer() {
           </FooterLinkItems>
           <FooterLinkItems>
             <FooterLinkTitle>Social Media</FooterLinkTitle>
-            <FooterLink to='/'>Instagram</FooterLink>
-            <FooterLink to='/'>Facebook</FooterLink>
-            <FooterLink to='/'>Youtube</FooterLink>
+            <FooterLink href='https://www.instagram.com/dhananjaysahu79/' target='_blank' aria-label='Instagram'>Instagram</FooterLink>
+            <FooterLink href='https://github.com/dhananjaysahu79/' target='_blank' aria-label='GitHub'>GitHub</FooterLink>
+            <FooterLink href='https://www.linkedin.com/in/dhananjay-sahu-525b1b1a1/' target='_blank' aria-label='LinkedIn'>LinkedIn</FooterLink>
             <FooterLink to='/'>Twitter</FooterLink>
           </FooterLinkItems>
         </FooterLinksWrapper>

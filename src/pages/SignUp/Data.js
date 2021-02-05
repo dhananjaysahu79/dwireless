@@ -8,7 +8,7 @@ export const homeObjOne = {
   description:
     'Get access to our exclusive diamond king package. Limited quantity available.',
   buttonLabel: 'Sign Up',
-  path: '/FormSignup',
+  path: '/dwireless/FormSignup',
   imgStart: '',
   img: require('../../images/svg-2.svg'),
   alt: 'Credit Card'
