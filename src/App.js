@@ -16,9 +16,9 @@ function App() {
       <ScrollToTop />
       <Navbar />
       <Switch>
-        <Route path='/dwireless' exact component={Home} />
+        <Route path='/' exact component={Home} />
         <Route path='/services' component={Services} />
-        <Route path='/products' component={Products} />
+        {/* <Route path='/about' component={Products} /> */}
         <Route path='/sign-up' component={SignUp} />
         <Route path='/FormSignup' component={FormSignup} />
       </Switch>

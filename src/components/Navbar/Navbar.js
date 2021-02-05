@@ -42,7 +42,6 @@ function Navbar() {
         <Nav>
           <NavbarContainer>
             <NavLogo to='/' onClick={closeMobileMenu}>
-              <NavIcon />
               Dispur-Wireless
             </NavLogo>
             <MobileIcon onClick={handleClick}>
@@ -61,7 +60,7 @@ function Navbar() {
               </NavItem>
               <NavItem>
                 <NavLinks to='/products' onClick={closeMobileMenu}>
-                  Products
+                  About
                 </NavLinks>
               </NavItem>
               <NavItemBtn>
