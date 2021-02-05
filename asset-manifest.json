@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/dwireless/static/js/main.16c16bbc.chunk.js",
-    "main.js.map": "/dwireless/static/js/main.16c16bbc.chunk.js.map",
+    "main.js": "/dwireless/static/js/main.231c6b1f.chunk.js",
+    "main.js.map": "/dwireless/static/js/main.231c6b1f.chunk.js.map",
     "runtime-main.js": "/dwireless/static/js/runtime-main.d48944f2.js",
     "runtime-main.js.map": "/dwireless/static/js/runtime-main.d48944f2.js.map",
     "static/js/2.f620af32.chunk.js": "/dwireless/static/js/2.f620af32.chunk.js",
     "static/js/2.f620af32.chunk.js.map": "/dwireless/static/js/2.f620af32.chunk.js.map",
     "index.html": "/dwireless/index.html",
-    "precache-manifest.0779ec63cbd10502fbfcfd31bc0076c4.js": "/dwireless/precache-manifest.0779ec63cbd10502fbfcfd31bc0076c4.js",
+    "precache-manifest.75ad9b185983e1c27e7a009fe943c0bc.js": "/dwireless/precache-manifest.75ad9b185983e1c27e7a009fe943c0bc.js",
     "service-worker.js": "/dwireless/service-worker.js",
     "static/js/2.f620af32.chunk.js.LICENSE.txt": "/dwireless/static/js/2.f620af32.chunk.js.LICENSE.txt",
     "static/media/Group10.svg": "/dwireless/static/media/Group10.06ce697f.svg",
@@ -18,6 +18,6 @@
   "entrypoints": [
     "static/js/runtime-main.d48944f2.js",
     "static/js/2.f620af32.chunk.js",
-    "static/js/main.16c16bbc.chunk.js"
+    "static/js/main.231c6b1f.chunk.js"
   ]
 }
